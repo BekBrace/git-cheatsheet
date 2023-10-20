@@ -1,4 +1,4 @@
-# Here are a quick set of fundemental commands that you need to know in GIT.
+# Here is a quick set of fundemental commands that you need to know in GIT.
 
 # Basic Git Commands:
 
