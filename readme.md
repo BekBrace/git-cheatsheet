@@ -52,7 +52,8 @@ git pull
 ```
 
 11- Push Changes to a Remote Repository: 
-``` shgit push
+``` sh
+git push
 ```
 
 #//////////////Advanced Git Commands//////////////
